@@ -1,0 +1,6 @@
+<?php
+define('db', 'DB');
+define('dbname', 'DBNAME');
+define('dbusername', 'DBUSERNAME');
+define('dbpassword', 'DBPASSWORD');
+?>
